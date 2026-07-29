@@ -73,16 +73,6 @@ git clone https://github.com/your-username/currency-converter.git
 
 No additional installation is required.
 
-## 📸 Screenshot
-
-_Add a screenshot of your project here._
-
-Example:
-
-```
-images/screenshot.png
-```
-
 ## 📌 Future Improvements
 
 - Reverse currency conversion button (Swap).
