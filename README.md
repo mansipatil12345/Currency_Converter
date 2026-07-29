@@ -89,9 +89,6 @@ No additional installation is required.
 B.Tech Computer Engineering (CSE)
 
 Vishwakarma University, Pune
-
-GitHub: https://github.com/your-username
-
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
